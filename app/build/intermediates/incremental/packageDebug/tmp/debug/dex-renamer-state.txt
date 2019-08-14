@@ -1,0 +1,4 @@
+#Mon Aug 12 12:11:50 ICT 2019
+base.0=C\:\\Users\\84943\\Desktop\\soketdemo-recyclerview\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
